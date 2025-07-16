@@ -26,14 +26,16 @@ I share what I learn, solve, and struggle through — to help others level up to
 ---
 
 ## 🌐 Connect With Me  
-| Platform       | Link                                                                 |
-|----------------|----------------------------------------------------------------------|
-| 💼 LinkedIn     | [Sharvari Dubey](https://www.linkedin.com/in/sharvari-dubey-806717227/) |
-| 🧠 TryHackMe     | [Sharo11](https://tryhackme.com/p/Sharo11)                            |
-| 🐞 HackerOne     | [astra_11](https://hackerone.com/astra_11)                            |
-| 💻 Dev GitHub    | [Sharo-11 (Dev & Web Projects)](https://github.com/Sharo-11)          |
-| 🔐 Cybersec GitHub | [Astra-11 (CTFs & Security)](https://github.com/astra-11)           |
-| 🌐 Portfolio     | [My Official Portfolio](https://portfolio-2-0-orpin.vercel.app/)      |
+| Platform           | Link                                                                    |
+| ------------------ | ----------------------------------------------------------------------- |
+| 💼 LinkedIn        | [Sharvari Dubey](https://www.linkedin.com/in/sharvari-dubey-806717227/) |
+| 🧠 TryHackMe       | [Sharo11](https://tryhackme.com/p/Sharo11)                              |
+| 🐞 HackerOne       | [astra\_11](https://hackerone.com/astra_11)                             |
+| 🛡️ Bugcrowd       | [astra\_11](https://bugcrowd.com/astra_11)                              |
+| 💣 PentesterLab    | [astra\_11](https://pentesterlab.com/profile/astra_11)                  |
+| 💻 Dev GitHub      | [Sharo-11 (Dev & Web Projects)](https://github.com/Sharo-11)            |
+| 🔐 Cybersec GitHub | [Astra-11 (CTFs & Security)](https://github.com/astra-11)               |
+| 🌐 Portfolio       | [My Official Portfolio](https://portfolio-2-0-orpin.vercel.app/)        |
 
 ---
 
