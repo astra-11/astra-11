@@ -50,7 +50,6 @@ I share what I learn, solve, and struggle through — to help others level up to
 
 ## 🧠 Platforms I’m Active On  
 - 🔐 **[TryHackMe](https://tryhackme.com/p/Sharo11)** — Red team labs, daily rooms & OSCP-style practice  
-- 🕵️‍♀️ **Hack The Box** — (link coming soon)  
 - 🐞 **[HackerOne](https://hackerone.com/astra_11)** — Bug bounty reports and recon experiments  
 - 💡 **CTFs** — TryHackMe, HTB, local events & online competitions
 
